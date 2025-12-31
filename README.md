@@ -21,8 +21,9 @@ Implemented using **Python** in a **Jupyter Notebook**.
 ## 📂 Project Structure
 
 ```
-├── electric-vehicle-population-classification.ipynb
 ├── README.md
+├── code
+├── dataset
 ```
 
 ---
